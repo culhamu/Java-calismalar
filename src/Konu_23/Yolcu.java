@@ -7,7 +7,9 @@ public class Yolcu implements IYurtDisiKurallari{
     private boolean siyasiYasak;
     private boolean vizeDurum;
 
-    public Yolcu() {
+
+
+    public  Yolcu() {
         Scanner scan=new Scanner(System.in);
         System.out.print("Yatırdığınız harç bedeli : ");
         this.harc=scan.nextInt();
