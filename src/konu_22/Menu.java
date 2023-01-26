@@ -1,4 +1,4 @@
-package Konu_22;
+package konu_22;
 
 import java.util.*;
 

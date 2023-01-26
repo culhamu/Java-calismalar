@@ -1,4 +1,4 @@
-package Konu_23;
+package konu_23;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

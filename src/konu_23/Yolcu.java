@@ -1,4 +1,4 @@
-package Konu_23;
+package konu_23;
 
 import java.util.Scanner;
 

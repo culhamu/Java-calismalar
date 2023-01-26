@@ -1,4 +1,4 @@
-package Konu_21;
+package konu_21;
 
 public class Kart {
     private char deger;

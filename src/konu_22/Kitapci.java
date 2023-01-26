@@ -1,6 +1,4 @@
-package Konu_22;
-
-import java.util.Map;
+package konu_22;
 
 public class Kitapci<M> {
 
